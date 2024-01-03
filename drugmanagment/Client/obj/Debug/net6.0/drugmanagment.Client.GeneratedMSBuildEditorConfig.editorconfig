@@ -13,59 +13,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = drugmanagment.Client
 build_property.RootNamespace = drugmanagment.Client
-build_property.ProjectDir = C:\Users\Dicta\source\repos\Assignment2\drugmanagment\Client\
+build_property.ProjectDir = C:\Users\Dicta\Documents\GitHub\awais\drugmanagment\Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Dicta\source\repos\Assignment2\drugmanagment\Client
+build_property.MSBuildProjectDirectory = C:\Users\Dicta\Documents\GitHub\awais\drugmanagment\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Dicta/source/repos/Assignment2/drugmanagment/Client/App.razor]
+[C:/Users/Dicta/Documents/GitHub/awais/drugmanagment/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dicta/source/repos/Assignment2/drugmanagment/Client/Pages/Counter.razor]
+[C:/Users/Dicta/Documents/GitHub/awais/drugmanagment/Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dicta/source/repos/Assignment2/drugmanagment/Client/Pages/Dashboard.razor]
+[C:/Users/Dicta/Documents/GitHub/awais/drugmanagment/Client/Pages/Dashboard.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dicta/source/repos/Assignment2/drugmanagment/Client/Pages/FetchData.razor]
+[C:/Users/Dicta/Documents/GitHub/awais/drugmanagment/Client/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dicta/source/repos/Assignment2/drugmanagment/Client/Pages/Index.razor]
+[C:/Users/Dicta/Documents/GitHub/awais/drugmanagment/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dicta/source/repos/Assignment2/drugmanagment/Client/Pages/Login.razor]
+[C:/Users/Dicta/Documents/GitHub/awais/drugmanagment/Client/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dicta/source/repos/Assignment2/drugmanagment/Client/Pages/Signup.razor]
+[C:/Users/Dicta/Documents/GitHub/awais/drugmanagment/Client/Pages/Signup.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbnVwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dicta/source/repos/Assignment2/drugmanagment/Client/Shared/SecondLayout.razor]
+[C:/Users/Dicta/Documents/GitHub/awais/drugmanagment/Client/Shared/SecondLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNlY29uZExheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dicta/source/repos/Assignment2/drugmanagment/Client/Shared/SurveyPrompt.razor]
+[C:/Users/Dicta/Documents/GitHub/awais/drugmanagment/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dicta/source/repos/Assignment2/drugmanagment/Client/_Imports.razor]
+[C:/Users/Dicta/Documents/GitHub/awais/drugmanagment/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dicta/source/repos/Assignment2/drugmanagment/Client/Shared/MainLayout.razor]
+[C:/Users/Dicta/Documents/GitHub/awais/drugmanagment/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-k78jxsjqd5
 
-[C:/Users/Dicta/source/repos/Assignment2/drugmanagment/Client/Shared/NavMenu.razor]
+[C:/Users/Dicta/Documents/GitHub/awais/drugmanagment/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-t0w1qqeq0b
